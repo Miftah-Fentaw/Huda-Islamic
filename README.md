@@ -8,7 +8,7 @@ Offline Islamic Companion App for Quran, Duas, Qibla & More — built with Flutt
 
 ## ✨ Features
 
-- 📖 **Offline Quran (PDF-based)**
+- 📖 **Offline Quran (Text-based)**
 - 🤲 **Daily Duas & Supplications**
 - 🧭 **Qibla Direction**
 - 📅 **Hijri Calendar**
